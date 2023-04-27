@@ -1,4 +1,4 @@
-import {View, Text, SafeAreaView, ScrollView} from 'react-native';
+import {SafeAreaView, ScrollView} from 'react-native';
 import FlatCards from './components/FlatCards';
 
 const App = () => {
